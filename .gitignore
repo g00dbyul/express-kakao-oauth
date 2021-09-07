@@ -1,0 +1,37 @@
+```jsx
+# File system
+.idea
+.DS_Store
+*.swp
+*~
+
+# Node
+/node_modules
+lerna-debug.log
+npm-debug.log
+npm-debug.log*
+yarn-error.log*
+junit.xml
+package-lock.json
+
+# VSCode
+.vscode
+.eslintcache
+
+# .env
+.env*
+
+# DB
+*.db
+
+# Logging
+nohup.out
+**.log
+
+# Testing
+coverage
+
+dist/
+
+.gitmessage.txt
+```
