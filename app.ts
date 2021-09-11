@@ -4,9 +4,9 @@ import qs from "qs";
 
 const app = express();
 
-const rest_api_key = 'ce047adcaeead4714a08e57de73e41f3';
+const rest_api_key = 'Refence Kakao API';
 const redirect_url = 'http://localhost:3000/token';
-const secret = 'DQez3tcKYF5QwcLGoMN8j0JMhYVxtnuR';
+const secret = 'Reference Kakao API';
 
 // get
 app.get('/login', (req, res) => {

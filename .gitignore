@@ -33,5 +33,9 @@ coverage
 
 dist/
 
+node_modules
+.idea
+dist
+
 .gitmessage.txt
 ```
